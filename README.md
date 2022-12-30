@@ -1,25 +1,32 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=joaovictor09" alt="joaovictor09" /></p>
+
+
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am João Victor</h1>
+<p align = "justify">A boy passionate about technology since the first day he met this world of programming. 
+Currently learning Full Stack development with the biggest technologies of the moment!</p>
+
+I'm learning at the moment **ReactJS, ReactNative, Nodejsc** and **Typescript**
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-joaovictor09-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovictor09/)](https://www.linkedin.com/in/joaovictor09/)
+[![Instagram Badge](https://img.shields.io/badge/-jooao.victor_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jooao.victor_/)](https://www.instagram.com/jooao.victor_/)
+[![Gmail Badge](https://img.shields.io/badge/-joaovictordasilva0911@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictordasilva0911@gmail.com)](mailto:joaovictordasilva0911@gmail.com)
+
+## 🚀💻 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## ⚡ GitHub Stats
+
 <div align="center">
   <a href="https://github.com/joaovictor09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor09&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor09&layout=compact&theme=synthwave"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Minha foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/306885606175408135/a_bb2770e468d2502ca0be0b66a9aa67d8.gif?size=128">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/jooao.victor_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaovictordasilva0911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaovictor09" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  //![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
