@@ -30,3 +30,6 @@ I'm learning at the moment **ReactJS, ReactNative, Nodejsc** and **Typescript**
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor09&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor09&layout=compact&theme=synthwave"/>
 </div>
+<div width="full" align="center">
+  <img height="180em" src="https://github.com/joaovictor09/joaovictor09/blob/main/github-user-contribution.svg"/>
+</div>
