@@ -27,8 +27,8 @@ I'm learning at the moment **ReactJS, ReactNative, Nodejsc** and **Typescript**
 
 <div direction="row"align="center">
   <a href="https://github.com/joaovictor09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor09&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor09&layout=compact&theme=synthwave"/>
+  <img height="180em" width="full" src="https://github-readme-stats.vercel.app/api?username=joaovictor09&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="full" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor09&layout=compact&theme=synthwave"/>
 </div>
 <!--<div width="full" align="center">
   <img height="180em" src="https://github.com/joaovictor09/joaovictor09/blob/output/github-contribution-grid-snake.svg"/>
