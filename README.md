@@ -25,7 +25,7 @@ I'm learning at the moment **ReactJS, ReactNative, Nodejsc** and **Typescript**
 
 ## ⚡ GitHub Stats
 
-<div align="center">
+<div direction="row"align="center">
   <a href="https://github.com/joaovictor09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor09&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor09&layout=compact&theme=synthwave"/>
